@@ -1,4 +1,4 @@
-import LightboxTest from "./components/lightboxTest"
+import LightboxTest from "./components/LightboxTest"
 
 export default function Home() {
   return (
